@@ -18,3 +18,6 @@
 | CloudFront | • S3 컨텐츠 전역 배포<br>• HTTPS 연결<br>• 정적 파일 압축 | • 글로벌 접근성<br>• SSL 보안<br>• 사용자 경험 향상 | • 엣지 캐싱<br>• Gzip 압축<br>• 커스텀 도메인 |
 | 캐시 무효화 | • 배포 후 전체 캐시 삭제<br>• /* 경로 무효화<br>• CDN 캐시 관리 | • CSR 앱 최신화<br>• 즉각적인 업데이트<br>• 캐시 정합성 | • 배포 시 자동화<br>• 경로 기반 무효화<br> |
 | Repository Secrets | • AWS 키 저장<br>• 리전 설정<br>• 버킷/배포 ID 관리 | • 보안 자격증명 보호<br>• 설정값 중앙화<br>• 민감정보 격리 | • GitHub 환경변수<br>• AWS 인증정보<br>• 프로젝트별 관리 |
+
+## Performance
+<img width="1884" alt="image" src="https://github.com/user-attachments/assets/3906d33c-94a3-490c-b7a3-84467c50dccc">
