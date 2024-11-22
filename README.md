@@ -21,3 +21,8 @@
 
 ## Performance
 <img width="1884" alt="image" src="https://github.com/user-attachments/assets/3906d33c-94a3-490c-b7a3-84467c50dccc">
+
+| Metric | S3 | CloudFront | Improvement |
+|--------|-----------|-------------------|-------------|
+| **Size** | 12.4 KB  | 3.2 KB            | ~74% smaller |
+| **Time** | 634 ms   | 233 ms            | ~63% faster  |
